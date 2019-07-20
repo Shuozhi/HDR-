@@ -1,2 +1,4 @@
 # HDR-
-SIFT + Retinex + RANSAC
+SIFT + RANSAC
+现在做到特征点匹配
+下一步是图像校正融合等秋招结束再看吧
