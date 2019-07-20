@@ -1,0 +1,16 @@
+﻿  lum_retinex.cpp
+C:\Users\Administrator.DESKTOP-K831SFN\Desktop\retinex-master\Retinex\lum_retinex.cpp(24,35): warning C4244:  “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator.DESKTOP-K831SFN\Desktop\retinex-master\Retinex\lum_retinex.cpp(245,11): warning C4477:  “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Eigen::Index”
+C:\Users\Administrator.DESKTOP-K831SFN\Desktop\retinex-master\Retinex\lum_retinex.cpp(245,11): message :  请考虑在格式字符串中使用“%td”
+C:\Users\Administrator.DESKTOP-K831SFN\Desktop\retinex-master\Retinex\lum_retinex.cpp(245,11): warning C4477:  “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“Eigen::Index”
+C:\Users\Administrator.DESKTOP-K831SFN\Desktop\retinex-master\Retinex\lum_retinex.cpp(245,11): message :  请考虑在格式字符串中使用“%td”
+C:\Users\Administrator.DESKTOP-K831SFN\Desktop\retinex-master\Retinex\lum_retinex.cpp(275,42): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+  retinextest.cpp
+C:\Users\Administrator.DESKTOP-K831SFN\Desktop\retinex-master\Retinex\lum_retinex.cpp(290,47): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator.DESKTOP-K831SFN\Desktop\retinex-master\Retinex\retinextest.cpp(15,29): warning C4305:  “初始化”: 从“double”到“float”截断
+  正在生成代码
+  0 of 1532 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Retinex.vcxproj -> C:\Users\Administrator.DESKTOP-K831SFN\Desktop\retinex-master\Retinex\x64\Release\Retinex.exe
